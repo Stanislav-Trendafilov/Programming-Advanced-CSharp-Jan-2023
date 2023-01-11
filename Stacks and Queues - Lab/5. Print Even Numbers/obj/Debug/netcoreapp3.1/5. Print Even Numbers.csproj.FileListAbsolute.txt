@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.exe
+C:\Users\User\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.deps.json
+C:\Users\User\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.runtimeconfig.json
+C:\Users\User\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.dll
+C:\Users\User\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.pdb
+C:\Users\User\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.dll
+C:\Users\User\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.pdb
+C:\Users\User\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.genruntimeconfig.cache

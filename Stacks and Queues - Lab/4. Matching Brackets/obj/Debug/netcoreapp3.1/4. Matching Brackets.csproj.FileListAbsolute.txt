@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.1\4. Matching Brackets.exe
+C:\Users\User\source\repos\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.1\4. Matching Brackets.deps.json
+C:\Users\User\source\repos\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.1\4. Matching Brackets.runtimeconfig.json
+C:\Users\User\source\repos\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.1\4. Matching Brackets.runtimeconfig.dev.json
+C:\Users\User\source\repos\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.1\4. Matching Brackets.dll
+C:\Users\User\source\repos\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.1\4. Matching Brackets.pdb
+C:\Users\User\source\repos\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.1\4. Matching Brackets.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.1\4. Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.1\4. Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.1\4. Matching Brackets.AssemblyInfo.cs
+C:\Users\User\source\repos\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.1\4. Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.1\4. Matching Brackets.dll
+C:\Users\User\source\repos\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.1\4. Matching Brackets.pdb
+C:\Users\User\source\repos\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.1\4. Matching Brackets.genruntimeconfig.cache
