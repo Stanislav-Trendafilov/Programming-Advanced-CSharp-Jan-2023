@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.exe
+C:\Users\User\source\repos\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.deps.json
+C:\Users\User\source\repos\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.runtimeconfig.json
+C:\Users\User\source\repos\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.runtimeconfig.dev.json
+C:\Users\User\source\repos\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.dll
+C:\Users\User\source\repos\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.pdb
+C:\Users\User\source\repos\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.AssemblyInfo.cs
+C:\Users\User\source\repos\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.dll
+C:\Users\User\source\repos\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.pdb
+C:\Users\User\source\repos\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.genruntimeconfig.cache

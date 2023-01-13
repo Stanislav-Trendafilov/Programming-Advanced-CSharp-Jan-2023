@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.exe
+C:\Users\User\source\repos\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.deps.json
+C:\Users\User\source\repos\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.runtimeconfig.json
+C:\Users\User\source\repos\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.runtimeconfig.dev.json
+C:\Users\User\source\repos\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.dll
+C:\Users\User\source\repos\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.pdb
+C:\Users\User\source\repos\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.AssemblyInfo.cs
+C:\Users\User\source\repos\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.dll
+C:\Users\User\source\repos\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.pdb
+C:\Users\User\source\repos\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.genruntimeconfig.cache
