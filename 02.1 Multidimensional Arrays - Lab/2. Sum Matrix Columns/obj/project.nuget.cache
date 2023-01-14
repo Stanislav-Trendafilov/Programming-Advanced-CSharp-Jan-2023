@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sNVxjuYiyVsAmCz6k4mTqo2E9UnPX/30EUzn0Bms7UxnsvkMt57pAaIEbk4DtUoT1wMQavNcwihsyRXMHXmvbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Multidimensional Arrays - Lab\\2. Sum Matrix Columns\\2. Sum Matrix Columns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

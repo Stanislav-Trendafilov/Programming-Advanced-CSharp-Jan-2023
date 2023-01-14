@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.deps.json
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.json
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.genruntimeconfig.cache

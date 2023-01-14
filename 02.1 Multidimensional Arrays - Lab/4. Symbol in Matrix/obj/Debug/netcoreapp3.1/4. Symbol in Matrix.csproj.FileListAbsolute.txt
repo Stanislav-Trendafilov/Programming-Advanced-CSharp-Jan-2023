@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.deps.json
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.runtimeconfig.json
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.dll
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.AssemblyInfo.cs
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.dll
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.genruntimeconfig.cache
