@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.deps.json
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.runtimeconfig.json
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.runtimeconfig.dev.json
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.dll
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.AssemblyInfo.cs
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.dll
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.genruntimeconfig.cache

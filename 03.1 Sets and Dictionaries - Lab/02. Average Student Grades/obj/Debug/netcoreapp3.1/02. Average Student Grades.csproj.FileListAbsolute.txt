@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.deps.json
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.runtimeconfig.json
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.runtimeconfig.dev.json
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.dll
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.AssemblyInfo.cs
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.dll
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.genruntimeconfig.cache
