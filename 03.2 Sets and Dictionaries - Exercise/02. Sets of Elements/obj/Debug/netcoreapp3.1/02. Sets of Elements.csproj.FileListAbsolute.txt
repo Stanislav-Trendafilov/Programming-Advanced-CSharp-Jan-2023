@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.deps.json
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.runtimeconfig.json
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.runtimeconfig.dev.json
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.dll
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.AssemblyInfo.cs
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.dll
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.genruntimeconfig.cache

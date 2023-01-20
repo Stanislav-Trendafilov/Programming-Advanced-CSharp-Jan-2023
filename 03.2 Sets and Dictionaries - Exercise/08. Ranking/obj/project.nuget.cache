@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zGg3HfTvuSlW0ytqJMKeQ3eC329RidurPsQAT7zvfyPhdVzNtfJp8HyD8pECXYjkNs+OziVHJ+tJAdRIG8Rs0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Sets and Dictionaries Advanced - Exercise\\08. Ranking\\08. Ranking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

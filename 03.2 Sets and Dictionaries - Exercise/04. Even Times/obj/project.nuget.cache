@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "87BTjjqFa2iA+VQzLA2VB2eAJP5uTzpSOySVM6fPsd6TboFDYz7k6+PNAkTlC3XYrbBArZ5hBc6IWWgPmx1rEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
