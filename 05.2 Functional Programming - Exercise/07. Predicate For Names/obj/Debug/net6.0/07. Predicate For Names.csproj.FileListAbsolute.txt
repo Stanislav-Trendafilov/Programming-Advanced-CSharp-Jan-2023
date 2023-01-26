@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.exe
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.deps.json
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.runtimeconfig.json
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.pdb
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.AssemblyInfo.cs
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\refint\07. Predicate For Names.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.pdb
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.genruntimeconfig.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\ref\07. Predicate For Names.dll

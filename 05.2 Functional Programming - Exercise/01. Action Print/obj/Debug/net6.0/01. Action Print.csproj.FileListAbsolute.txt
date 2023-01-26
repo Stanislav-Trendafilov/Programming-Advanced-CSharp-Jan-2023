@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.exe
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.deps.json
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.runtimeconfig.json
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.pdb
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.AssemblyInfo.cs
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\refint\01. Action Print.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.pdb
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.genruntimeconfig.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\ref\01. Action Print.dll

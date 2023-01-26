@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\bin\Debug\net6.0\10. Party Filter Module.exe
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\bin\Debug\net6.0\10. Party Filter Module.deps.json
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\bin\Debug\net6.0\10. Party Filter Module.runtimeconfig.json
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\bin\Debug\net6.0\10. Party Filter Module.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\bin\Debug\net6.0\10. Party Filter Module.pdb
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\obj\Debug\net6.0\10. Party Filter Module.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\obj\Debug\net6.0\10. Party Filter Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\obj\Debug\net6.0\10. Party Filter Module.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\obj\Debug\net6.0\10. Party Filter Module.AssemblyInfo.cs
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\obj\Debug\net6.0\10. Party Filter Module.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\obj\Debug\net6.0\10. Party Filter Module.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\obj\Debug\net6.0\refint\10. Party Filter Module.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\obj\Debug\net6.0\10. Party Filter Module.pdb
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\obj\Debug\net6.0\10. Party Filter Module.genruntimeconfig.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\10. Party Filter Module\obj\Debug\net6.0\ref\10. Party Filter Module.dll

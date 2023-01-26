@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net6.0\04. Find Evens or Odds.exe
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net6.0\04. Find Evens or Odds.deps.json
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net6.0\04. Find Evens or Odds.runtimeconfig.json
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net6.0\04. Find Evens or Odds.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net6.0\04. Find Evens or Odds.pdb
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\refint\04. Find Evens or Odds.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.pdb
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.genruntimeconfig.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\ref\04. Find Evens or Odds.dll

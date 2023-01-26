@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.exe
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.deps.json
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.runtimeconfig.json
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.pdb
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.AssemblyInfo.cs
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\refint\08. List Of Predicates.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.pdb
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.genruntimeconfig.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\net6.0\ref\08. List Of Predicates.dll

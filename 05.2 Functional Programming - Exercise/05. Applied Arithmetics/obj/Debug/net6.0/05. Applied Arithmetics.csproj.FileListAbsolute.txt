@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.exe
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.deps.json
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.runtimeconfig.json
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.pdb
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\refint\05. Applied Arithmetics.dll
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.pdb
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.genruntimeconfig.cache
+C:\Users\User\source\repos\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\ref\05. Applied Arithmetics.dll
