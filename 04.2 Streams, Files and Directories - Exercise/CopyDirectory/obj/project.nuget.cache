@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ayfGuoZ1JckBu3wzeqczGvdpwjRP9C7keaB7xdQlRm0uLxxJ36+8lltdHBY+yTPPDORNsXMgJNBLCVETyWCwQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Softuni\\Programming Advanced with C# - януари 2023\\Advanced\\04. Streams, Files and Directories\\02. Skeleton_3.1-Exercise\\CopyDirectory\\CopyDirectory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

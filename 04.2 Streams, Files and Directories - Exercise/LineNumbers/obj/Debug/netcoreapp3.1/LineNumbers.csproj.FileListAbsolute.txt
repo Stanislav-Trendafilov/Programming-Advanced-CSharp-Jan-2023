@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\02. Skeleton_3.1-Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\02. Skeleton_3.1-Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\02. Skeleton_3.1-Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\02. Skeleton_3.1-Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\02. Skeleton_3.1-Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\02. Skeleton_3.1-Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\02. Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\02. Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\02. Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\02. Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\02. Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\02. Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\02. Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\02. Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache
