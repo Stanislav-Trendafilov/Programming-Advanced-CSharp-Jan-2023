@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.exe
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.deps.json
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.json
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.dev.json
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.dll
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.pdb
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfo.cs
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.dll
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.pdb
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.genruntimeconfig.cache

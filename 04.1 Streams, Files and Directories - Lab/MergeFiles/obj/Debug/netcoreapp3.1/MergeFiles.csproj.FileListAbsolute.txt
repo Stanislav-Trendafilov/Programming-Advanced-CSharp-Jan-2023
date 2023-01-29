@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.exe
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.deps.json
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.json
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.dev.json
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfo.cs
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Users\User\Desktop\Softuni\Programming Advanced with C# - януари 2023\Advanced\04. Streams, Files and Directories\01. Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.genruntimeconfig.cache
