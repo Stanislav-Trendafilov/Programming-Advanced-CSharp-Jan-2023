@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.exe
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.deps.json
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.runtimeconfig.json
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.dll
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.pdb
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.AssemblyInfo.cs
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.dll
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\refint\05. Special Cars.dll
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.pdb
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.genruntimeconfig.cache
+C:\Users\User\source\repos\Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\ref\05. Special Cars.dll

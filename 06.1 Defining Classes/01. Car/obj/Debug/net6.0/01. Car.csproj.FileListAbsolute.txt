@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.exe
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.deps.json
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.runtimeconfig.json
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.dll
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.pdb
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.AssemblyInfo.cs
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.dll
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\obj\Debug\net6.0\refint\01. Car.dll
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.pdb
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.genruntimeconfig.cache
+C:\Users\User\source\repos\Defining Classes - Lab\01. Car\obj\Debug\net6.0\ref\01. Car.dll
