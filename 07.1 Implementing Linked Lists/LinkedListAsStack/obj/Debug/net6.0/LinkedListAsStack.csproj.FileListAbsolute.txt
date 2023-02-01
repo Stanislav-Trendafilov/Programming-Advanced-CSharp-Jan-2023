@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\bin\Debug\net6.0\LinkedListAsStack.exe
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\bin\Debug\net6.0\LinkedListAsStack.deps.json
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\bin\Debug\net6.0\LinkedListAsStack.runtimeconfig.json
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\bin\Debug\net6.0\LinkedListAsStack.dll
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\bin\Debug\net6.0\LinkedListAsStack.pdb
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\obj\Debug\net6.0\LinkedListAsStack.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\obj\Debug\net6.0\LinkedListAsStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\obj\Debug\net6.0\LinkedListAsStack.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\obj\Debug\net6.0\LinkedListAsStack.AssemblyInfo.cs
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\obj\Debug\net6.0\LinkedListAsStack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\obj\Debug\net6.0\LinkedListAsStack.dll
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\obj\Debug\net6.0\refint\LinkedListAsStack.dll
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\obj\Debug\net6.0\LinkedListAsStack.pdb
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\obj\Debug\net6.0\LinkedListAsStack.genruntimeconfig.cache
+C:\Users\User\source\repos\Implementing Linked List\LinkedListAsStack\obj\Debug\net6.0\ref\LinkedListAsStack.dll
