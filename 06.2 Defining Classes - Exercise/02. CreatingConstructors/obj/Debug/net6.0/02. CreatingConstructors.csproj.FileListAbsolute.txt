@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\bin\Debug\net6.0\02. CreatingConstructors.exe
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\bin\Debug\net6.0\02. CreatingConstructors.deps.json
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\bin\Debug\net6.0\02. CreatingConstructors.runtimeconfig.json
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\bin\Debug\net6.0\02. CreatingConstructors.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\bin\Debug\net6.0\02. CreatingConstructors.pdb
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\obj\Debug\net6.0\02. CreatingConstructors.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\obj\Debug\net6.0\02. CreatingConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\obj\Debug\net6.0\02. CreatingConstructors.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\obj\Debug\net6.0\02. CreatingConstructors.AssemblyInfo.cs
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\obj\Debug\net6.0\02. CreatingConstructors.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\obj\Debug\net6.0\02. CreatingConstructors.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\obj\Debug\net6.0\refint\02. CreatingConstructors.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\obj\Debug\net6.0\02. CreatingConstructors.pdb
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\obj\Debug\net6.0\02. CreatingConstructors.genruntimeconfig.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\02. CreatingConstructors\obj\Debug\net6.0\ref\02. CreatingConstructors.dll

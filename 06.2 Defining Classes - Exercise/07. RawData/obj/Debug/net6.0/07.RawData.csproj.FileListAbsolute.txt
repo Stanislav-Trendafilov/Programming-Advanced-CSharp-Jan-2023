@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\obj\Debug\net6.0\07.RawData.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\obj\Debug\net6.0\07.RawData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\obj\Debug\net6.0\07.RawData.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\obj\Debug\net6.0\07.RawData.AssemblyInfo.cs
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\obj\Debug\net6.0\07.RawData.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\bin\Debug\net6.0\07.RawData.exe
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\bin\Debug\net6.0\07.RawData.deps.json
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\bin\Debug\net6.0\07.RawData.runtimeconfig.json
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\bin\Debug\net6.0\07.RawData.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\bin\Debug\net6.0\07.RawData.pdb
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\obj\Debug\net6.0\07.RawData.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\obj\Debug\net6.0\refint\07.RawData.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\obj\Debug\net6.0\07.RawData.pdb
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\obj\Debug\net6.0\07.RawData.genruntimeconfig.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\07. RawData\obj\Debug\net6.0\ref\07.RawData.dll

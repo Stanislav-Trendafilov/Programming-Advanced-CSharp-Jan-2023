@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.AssemblyInfo.cs
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\bin\Debug\net6.0\04.OpinionPoll.exe
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\bin\Debug\net6.0\04.OpinionPoll.deps.json
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\bin\Debug\net6.0\04.OpinionPoll.runtimeconfig.json
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\bin\Debug\net6.0\04.OpinionPoll.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\bin\Debug\net6.0\04.OpinionPoll.pdb
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\obj\Debug\net6.0\refint\04.OpinionPoll.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.pdb
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.genruntimeconfig.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\04. OpinionPoll\obj\Debug\net6.0\ref\04.OpinionPoll.dll

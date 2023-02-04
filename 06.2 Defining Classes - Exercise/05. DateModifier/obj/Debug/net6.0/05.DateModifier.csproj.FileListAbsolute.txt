@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\bin\Debug\net6.0\05.DateModifier.exe
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\bin\Debug\net6.0\05.DateModifier.deps.json
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\bin\Debug\net6.0\05.DateModifier.runtimeconfig.json
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\bin\Debug\net6.0\05.DateModifier.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\bin\Debug\net6.0\05.DateModifier.pdb
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\obj\Debug\net6.0\05.DateModifier.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\obj\Debug\net6.0\05.DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\obj\Debug\net6.0\05.DateModifier.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\obj\Debug\net6.0\05.DateModifier.AssemblyInfo.cs
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\obj\Debug\net6.0\05.DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\obj\Debug\net6.0\05.DateModifier.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\obj\Debug\net6.0\refint\05.DateModifier.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\obj\Debug\net6.0\05.DateModifier.pdb
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\obj\Debug\net6.0\05.DateModifier.genruntimeconfig.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\05. DateModifier\obj\Debug\net6.0\ref\05.DateModifier.dll

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\bin\Debug\net6.0\01. Class Person.exe
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\bin\Debug\net6.0\01. Class Person.deps.json
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\bin\Debug\net6.0\01. Class Person.runtimeconfig.json
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\bin\Debug\net6.0\01. Class Person.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\bin\Debug\net6.0\01. Class Person.pdb
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\obj\Debug\net6.0\01. Class Person.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\obj\Debug\net6.0\01. Class Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\obj\Debug\net6.0\01. Class Person.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\obj\Debug\net6.0\01. Class Person.AssemblyInfo.cs
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\obj\Debug\net6.0\01. Class Person.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\obj\Debug\net6.0\01. Class Person.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\obj\Debug\net6.0\refint\01. Class Person.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\obj\Debug\net6.0\01. Class Person.pdb
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\obj\Debug\net6.0\01. Class Person.genruntimeconfig.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\01. Class Person\obj\Debug\net6.0\ref\01. Class Person.dll
