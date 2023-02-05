@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.exe
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.deps.json
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.runtimeconfig.json
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.dll
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.pdb
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.dll
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\refint\GenericBoxOfInteger.dll
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.pdb
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.genruntimeconfig.cache
+C:\Users\User\source\repos\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\ref\GenericBoxOfInteger.dll

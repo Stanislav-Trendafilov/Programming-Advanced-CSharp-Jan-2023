@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.exe
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.deps.json
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.runtimeconfig.json
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.dll
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.pdb
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.dll
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\obj\Debug\net6.0\refint\GenericCountMethodStrings.dll
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.pdb
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.genruntimeconfig.cache
+C:\Users\User\source\repos\Generics - Exercise\05.GenericCountMethodStrings\obj\Debug\net6.0\ref\GenericCountMethodStrings.dll

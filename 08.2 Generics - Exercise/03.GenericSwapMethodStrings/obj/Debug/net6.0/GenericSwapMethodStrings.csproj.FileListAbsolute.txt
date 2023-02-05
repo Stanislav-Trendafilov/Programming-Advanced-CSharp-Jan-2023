@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.exe
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.deps.json
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.runtimeconfig.json
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.dll
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.pdb
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.dll
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\obj\Debug\net6.0\refint\GenericSwapMethodStrings.dll
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.pdb
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.genruntimeconfig.cache
+C:\Users\User\source\repos\Generics - Exercise\03.GenericSwapMethodStrings\obj\Debug\net6.0\ref\GenericSwapMethodStrings.dll

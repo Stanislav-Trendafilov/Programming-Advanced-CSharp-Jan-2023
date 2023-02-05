@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.exe
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.deps.json
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.dll
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.pdb
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.dll
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\obj\Debug\net6.0\refint\GenericSwapMethodIntegers.dll
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.pdb
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.genruntimeconfig.cache
+C:\Users\User\source\repos\Generics - Exercise\04.GenericSwapMethodIntegers\obj\Debug\net6.0\ref\GenericSwapMethodIntegers.dll
