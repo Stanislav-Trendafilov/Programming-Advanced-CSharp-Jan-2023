@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.deps.json
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.runtimeconfig.json
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.runtimeconfig.dev.json
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.dll
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.AssemblyInfo.cs
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.dll
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.genruntimeconfig.cache

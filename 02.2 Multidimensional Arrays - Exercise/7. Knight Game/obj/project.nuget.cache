@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QCxW2Yymv/oyqFmPV43BZz0Jn3Xrdk6r2luj46sQ5X977JnCHgVFKEIh4e+/xx5RKfnMtXtyyqgIg/0G6R59Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Multidimensional Arrays - Exercise\\7. Knight Game\\7. Knight Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\netcoreapp3.1\9. Miner.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\netcoreapp3.1\9. Miner.deps.json
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\netcoreapp3.1\9. Miner.runtimeconfig.json
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\netcoreapp3.1\9. Miner.runtimeconfig.dev.json
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\netcoreapp3.1\9. Miner.dll
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\9. Miner\bin\Debug\netcoreapp3.1\9. Miner.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.AssemblyInfo.cs
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.dll
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.genruntimeconfig.cache

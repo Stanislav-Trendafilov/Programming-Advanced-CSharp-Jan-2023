@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.deps.json
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.runtimeconfig.json
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.runtimeconfig.dev.json
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.dll
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.AssemblyInfo.cs
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.dll
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.deps.json
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.runtimeconfig.json
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.runtimeconfig.dev.json
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.dll
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.AssemblyInfo.cs
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.dll
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.genruntimeconfig.cache
