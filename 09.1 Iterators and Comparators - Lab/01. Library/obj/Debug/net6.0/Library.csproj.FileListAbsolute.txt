@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\bin\Debug\net6.0\Library.exe
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\bin\Debug\net6.0\Library.deps.json
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\bin\Debug\net6.0\Library.runtimeconfig.json
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\bin\Debug\net6.0\Library.dll
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\bin\Debug\net6.0\Library.pdb
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\Library.dll
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\refint\Library.dll
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\Library.pdb
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+C:\Users\User\source\repos\Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\ref\Library.dll
