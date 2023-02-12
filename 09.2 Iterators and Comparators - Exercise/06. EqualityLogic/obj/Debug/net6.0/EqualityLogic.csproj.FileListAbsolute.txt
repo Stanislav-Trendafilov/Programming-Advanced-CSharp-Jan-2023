@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\bin\Debug\net6.0\EqualityLogic.exe
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\bin\Debug\net6.0\EqualityLogic.deps.json
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\bin\Debug\net6.0\EqualityLogic.runtimeconfig.json
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\bin\Debug\net6.0\EqualityLogic.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\bin\Debug\net6.0\EqualityLogic.pdb
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\obj\Debug\net6.0\EqualityLogic.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\obj\Debug\net6.0\EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\obj\Debug\net6.0\EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\obj\Debug\net6.0\EqualityLogic.AssemblyInfo.cs
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\obj\Debug\net6.0\EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\obj\Debug\net6.0\EqualityLogic.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\obj\Debug\net6.0\refint\EqualityLogic.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\obj\Debug\net6.0\EqualityLogic.pdb
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\obj\Debug\net6.0\EqualityLogic.genruntimeconfig.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\06. EqualityLogic\obj\Debug\net6.0\ref\EqualityLogic.dll

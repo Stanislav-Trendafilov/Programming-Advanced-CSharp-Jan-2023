@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\bin\Debug\net6.0\Stack.exe
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\bin\Debug\net6.0\Stack.deps.json
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\bin\Debug\net6.0\Stack.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\bin\Debug\net6.0\Stack.pdb
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\obj\Debug\net6.0\Stack.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\obj\Debug\net6.0\Stack.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\obj\Debug\net6.0\refint\Stack.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\obj\Debug\net6.0\Stack.pdb
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03. Stack\obj\Debug\net6.0\ref\Stack.dll

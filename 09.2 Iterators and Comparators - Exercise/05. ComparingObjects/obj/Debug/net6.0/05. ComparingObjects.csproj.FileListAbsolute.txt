@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\bin\Debug\net6.0\05. ComparingObjects.exe
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\bin\Debug\net6.0\05. ComparingObjects.deps.json
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\bin\Debug\net6.0\05. ComparingObjects.runtimeconfig.json
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\bin\Debug\net6.0\05. ComparingObjects.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\bin\Debug\net6.0\05. ComparingObjects.pdb
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\obj\Debug\net6.0\05. ComparingObjects.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\obj\Debug\net6.0\05. ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\obj\Debug\net6.0\05. ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\obj\Debug\net6.0\05. ComparingObjects.AssemblyInfo.cs
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\obj\Debug\net6.0\05. ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\obj\Debug\net6.0\05. ComparingObjects.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\obj\Debug\net6.0\refint\05. ComparingObjects.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\obj\Debug\net6.0\05. ComparingObjects.pdb
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\obj\Debug\net6.0\05. ComparingObjects.genruntimeconfig.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\05. ComparingObjects\obj\Debug\net6.0\ref\05. ComparingObjects.dll

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\net6.0\ListyIterator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\net6.0\ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\net6.0\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\net6.0\ListyIterator.AssemblyInfo.cs
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\net6.0\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\net6.0\ListyIterator.exe
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\net6.0\ListyIterator.deps.json
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\net6.0\ListyIterator.runtimeconfig.json
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\net6.0\ListyIterator.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\net6.0\ListyIterator.pdb
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\net6.0\ListyIterator.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\net6.0\refint\ListyIterator.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\net6.0\ListyIterator.pdb
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\net6.0\ListyIterator.genruntimeconfig.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\net6.0\ref\ListyIterator.dll
