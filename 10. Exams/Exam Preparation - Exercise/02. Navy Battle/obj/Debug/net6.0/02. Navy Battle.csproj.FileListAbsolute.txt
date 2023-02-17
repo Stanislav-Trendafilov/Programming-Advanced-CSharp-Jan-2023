@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.exe
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.deps.json
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.runtimeconfig.json
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.dll
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.pdb
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.dll
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\obj\Debug\net6.0\refint\02. Navy Battle.dll
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.pdb
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.genruntimeconfig.cache
+C:\Users\User\source\repos\Exam Preparation - Exercise\02. Navy Battle\obj\Debug\net6.0\ref\02. Navy Battle.dll

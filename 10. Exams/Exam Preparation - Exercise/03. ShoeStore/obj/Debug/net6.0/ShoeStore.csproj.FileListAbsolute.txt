@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\obj\Debug\net6.0\ShoeStore.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\obj\Debug\net6.0\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\obj\Debug\net6.0\ShoeStore.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\obj\Debug\net6.0\ShoeStore.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\obj\Debug\net6.0\ShoeStore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\bin\Debug\net6.0\ShoeStore.exe
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\bin\Debug\net6.0\ShoeStore.deps.json
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\bin\Debug\net6.0\ShoeStore.runtimeconfig.json
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\bin\Debug\net6.0\ShoeStore.dll
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\bin\Debug\net6.0\ShoeStore.pdb
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\obj\Debug\net6.0\ShoeStore.dll
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\obj\Debug\net6.0\refint\ShoeStore.dll
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\obj\Debug\net6.0\ShoeStore.pdb
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\obj\Debug\net6.0\ShoeStore.genruntimeconfig.cache
+C:\Users\User\source\repos\Exam Preparation - Exercise\03. ShoeStore\obj\Debug\net6.0\ref\ShoeStore.dll
